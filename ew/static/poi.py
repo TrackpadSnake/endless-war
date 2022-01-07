@@ -2882,6 +2882,7 @@ poi_list = [
 		minor_role = "nullminorrole",
 		permissions = {'the-sphere': ['read', 'send', 'connect']},
 		pvp = False,
+		is_gangbase = True,
 		is_subzone = True,
 		neighbors = {},
 	),
